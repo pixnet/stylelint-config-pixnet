@@ -1,0 +1,29 @@
+{
+    "name": "stylelint-config-pixnet",
+    "version": "1.0.0",
+    "description": "PIXNET stylelint config",
+    "keywords": [
+        "stylelint",
+        "stylelint-config"
+    ],
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@git.pixnet.work:f2e/stylelint-config-pixnet.git"
+    },
+    "author": "PIXNET",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "stylelint-config-standard": "^18.2.0",
+        "stylelint-order": "^2.0.0"
+    },
+    "peerDependencies": {
+        "stylelint": "^8.3.0 || ^9.0.0"
+    }
+}
