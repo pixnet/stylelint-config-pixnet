@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-npm install git+ssh://git@git.pixnet.work:f2e/stylelint-config-pixnet.git#master --save-dev
+npm install git+ssh://git@github.com:pixnet/stylelint-config-pixnet.git#master --save-dev
 ```
 
 ## 與 stylelint-config-standard 的差異
