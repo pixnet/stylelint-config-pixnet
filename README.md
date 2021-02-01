@@ -5,7 +5,7 @@
 ## Installation
 
 ```
-npm install git+https://git@github.com:pixnet/stylelint-config-pixnet.git#master --save-dev
+npm install stylelint-config-pixnet --save-dev
 ```
 
 ## 與 stylelint-config-standard 的差異
