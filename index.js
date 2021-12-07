@@ -69,6 +69,7 @@ module.exports = {
         "opacity",
         "visibility",
         "white-space",
+        "cursor",
         "animation-name",
         "animation-duration",
         "animation-timing-function",
